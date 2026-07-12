@@ -2,6 +2,9 @@
   "name": "Pasta-de-Viagens-LEO-Clube-Soledade",
   "type": "module",
   "private": true,
+  "engines": {
+    "node": ">=20.0.0"
+  },
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
