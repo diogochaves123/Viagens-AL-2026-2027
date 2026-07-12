@@ -8,7 +8,7 @@ import { objectives } from '~~/data/content'
       <div class="mb-10">
         <h2 class="section-title text-white">Objetivos</h2>
         <p class="text-blue-100 max-w-xl mt-3">
-          Facilitar a ida aos eventos com boa hospedagem, transporte organizado e o menor custo possível para o grupo.
+          Facilitar a ida aos eventos com boa hospedagem, passagens negociadas e o menor custo possível para o grupo.
         </p>
       </div>
 

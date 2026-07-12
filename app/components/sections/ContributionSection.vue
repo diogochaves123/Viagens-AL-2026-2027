@@ -8,7 +8,7 @@ import { contributions } from '~~/data/content'
       <div class="mb-10">
         <h2 class="section-title">Como todo mundo pode <span>ajudar</span></h2>
         <p class="text-slate-600 max-w-xl mt-3">
-          A pasta não dá conta sozinha. Cada diretoria e cada CCLEO tem um papel nisso.
+          A pasta não dá conta sozinha. Cada diretoria e cada CLEO tem um papel nisso.
         </p>
       </div>
 

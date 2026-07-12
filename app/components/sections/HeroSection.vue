@@ -11,8 +11,8 @@
             <span class="text-[#FFCC00]">Viagens</span>
           </h1>
           <p class="text-lg text-blue-100 mb-6 max-w-lg leading-relaxed">
-            Este ano, a gente cuida da parte prática: hospedagem, transporte, custos e organização para os eventos do
-            distrito. O foco é simples — facilitar para que o máximo de CCLEOs consiga ir.
+            Este ano, a gente cuida da parte prática: hospedagem, passagens, custos e organização para os eventos do
+            distrito. O foco é simples — facilitar para que o máximo de CCLEO consiga ir.
           </p>
           <p class="text-blue-200/90 mb-8 max-w-lg text-base">
             Equilíbrio para liderar, união para transformar. E isso começa garantindo que ninguém fique de fora por

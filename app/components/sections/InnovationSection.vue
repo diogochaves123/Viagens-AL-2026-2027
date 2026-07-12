@@ -5,7 +5,7 @@
       <h2 class="section-title mb-4">Caderno de Viagens do <span>Clube</span></h2>
       <p class="text-slate-600 leading-relaxed mb-6">
         A ideia é manter um registro compartilhado — pode ser no Drive ou um mural no clube — de cada evento que o
-        LEO Soledade participar. Depois de cada viagem, anotamos: quem foi, quanto custou, como foi o transporte, o que
+        LEO Soledade participar. Depois de cada viagem, anotamos: quem foi, quanto custou, como foi a passagem, o que
         funcionou e o que dá para melhorar no próximo.
       </p>
       <p class="text-slate-600 leading-relaxed mb-8">
@@ -21,12 +21,12 @@
             <dd class="text-slate-800 font-medium">Três Palmeiras</dd>
           </div>
           <div>
-            <dt class="text-slate-400">CCLEOs presentes</dt>
+            <dt class="text-slate-400">CCLEO presentes</dt>
             <dd class="text-slate-800 font-medium">— / —</dd>
           </div>
           <div>
-            <dt class="text-slate-400">Transporte</dt>
-            <dd class="text-slate-800 font-medium">Van compartilhada + 2 caronas</dd>
+            <dt class="text-slate-400">Deslocamento</dt>
+            <dd class="text-slate-800 font-medium">Ônibus fretado em grupo</dd>
           </div>
           <div>
             <dt class="text-slate-400">Custo médio por pessoa</dt>

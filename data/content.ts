@@ -29,7 +29,7 @@ export const objectives = [
   },
   {
     title: 'Transporte',
-    description: 'Organizar van ou combinar caronas para ninguém ficar de fora por causa da distância.',
+    description: 'Negociar ônibus ou passagens em grupo para os eventos — sem depender de carro particular.',
   },
   {
     title: 'Custos',
@@ -46,7 +46,7 @@ export const timeline = [
     date: '17 e 18/10/2026',
     title: 'Leopiada e II RCD',
     location: 'Três Palmeiras',
-    description: 'Primeiro evento do semestre. Já vamos começar a organizar hospedagem e transporte com calma.',
+    description: 'Primeiro evento do semestre. Já vamos começar a organizar hospedagem e passagens com calma.',
     highlight: true,
   },
   {
@@ -72,9 +72,9 @@ export const projects = [
     tag: 'Comunicação',
   },
   {
-    title: 'Carona entre associados',
-    description: 'Combinar quem tem vaga no carro com quem precisa de ride — divide o custo e ajuda todo mundo.',
-    tag: 'Transporte',
+    title: 'Caronas nas campanhas',
+    description: 'Organizar caronas para levar CCLEO às campanhas de serviço aqui em Soledade — quem tem carro ajuda quem precisa.',
+    tag: 'Campanhas',
   },
   {
     title: 'Campanhas de arrecadação',
@@ -94,12 +94,12 @@ export const challenges = [
     solution: 'Avisar com antecedência no grupo e nas reuniões. Quanto antes soubermos quantos vão, melhor negociamos.',
   },
   {
-    challenge: 'Transporte e hospedagem caros',
-    solution: 'Fechar em grupo, buscar van compartilhada e fazer campanha quando alguém precisar de uma força.',
+    challenge: 'Passagens e hospedagem caras',
+    solution: 'Fechar em grupo, negociar ônibus ou passagens e fazer campanha quando alguém precisar de uma força.',
   },
   {
     challenge: 'Associado que acha que não dá para ir',
-    solution: 'Conversar individualmente, mostrar opções de parcelamento e carona. A ideia é ninguém ficar de fora por grana.',
+    solution: 'Conversar individualmente e mostrar opções de parcelamento. A ideia é ninguém ficar de fora por grana.',
   },
   {
     challenge: 'Informação espalhada',
@@ -121,8 +121,8 @@ export const contributions = [
     items: ['Divulgar datas e prazos', 'Registrar os momentos dos eventos'],
   },
   {
-    who: 'Todos os CCLEOs',
-    items: ['Confirmar cedo se vai ou não', 'Oferecer carona quando der', 'Avisar a pasta se alguém precisa de ajuda'],
+    who: 'Todos os CCLEO',
+    items: ['Confirmar cedo se vai ou não', 'Oferecer carona nas campanhas da cidade quando der', 'Avisar a pasta se alguém precisa de ajuda'],
   },
 ]
 

@@ -5,8 +5,8 @@
         Conta com a gente
       </h2>
       <p class="text-blue-100 leading-relaxed mb-4">
-        Se tiver dúvida sobre algum evento — valor, transporte, o que levar — chama a diretoria de Viagens. Confirma
-        cedo se você vai, avisa se precisar de ajuda e oferece carona quando puder.
+        Se tiver dúvida sobre algum evento — valor, passagem, o que levar — chama a diretoria de Viagens. Confirma
+        cedo se você vai, avisa se precisar de ajuda e oferece carona nas campanhas da cidade quando puder.
       </p>
       <p class="text-blue-200 text-sm mb-8">
         Quanto mais gente junto, mais barato e mais fácil fica para todo mundo.

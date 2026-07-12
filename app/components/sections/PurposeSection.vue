@@ -10,9 +10,9 @@
           não.
         </p>
         <p>
-          Quando um CCLEO vai a uma Leopiada, um Acampaleo ou uma Conferência, volta com contato novo, ideia para o
+          Quando um CLEO vai a uma Leopiada, um Acampaleo ou uma Conferência, volta com contato novo, ideia para o
           clube e motivação para as ações em Soledade. A pasta existe para que isso aconteça com o maior número de
-          associados possível — não só com quem já tem carro, grana ou experiência.
+          associados possível — não só com quem já tem grana ou experiência.
         </p>
         <p>
           Somos um Clube de Serviço. Participar de evento também é servir: aprender, trocar e trazer isso de volta para
@@ -27,7 +27,7 @@
         </div>
         <div class="p-5 bg-white rounded-xl border border-slate-200">
           <h3 class="font-bold text-slate-900 mb-2">Na comunidade</h3>
-          <p class="text-slate-600 text-sm">CCLEOs que voltam dos eventos com mais preparo para liderar as ações de serviço.</p>
+          <p class="text-slate-600 text-sm">CCLEO que voltam dos eventos com mais preparo para liderar as ações de serviço.</p>
         </div>
         <div class="p-5 bg-white rounded-xl border border-slate-200">
           <h3 class="font-bold text-slate-900 mb-2">Para cada associado</h3>
